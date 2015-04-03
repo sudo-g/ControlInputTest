@@ -9,8 +9,8 @@ To setup this project in Eclipse, simply select File > Import > Existing Project
 You should create a new workspace to work on this project.
 
 This project references two other projects:
-..appcompat_v7
-..<a href="https://github.com/sudo-g">sudo-g</a>/<a href="https://github.com/sudo-g/PWidgets">PWidgets</a>
+* appcompat_v7
+* <a href="https://github.com/sudo-g">sudo-g</a>/<a href="https://github.com/sudo-g/PWidgets">PWidgets</a>
 
 The ADT should add the appcompat_v7 project onto the workspace upon creation. The PWidgets project should be added to your current workspace.
 
