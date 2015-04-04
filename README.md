@@ -6,7 +6,7 @@ The development setup used is Eclipse with Android ADT. Android API 21 must be i
 
 To setup this project in Eclipse, simply select File > Import > Existing Projects into Workspace then locate where you cloned this repository under the "Select Root Directory" input of the "Import Projects" dialogue.
 
-This project should share a workspace with PWidgets.
+This project should share a workspace with <a href="https://github.com/sudo-g/PWidgets">PWidgets</a>.
 
 This project references two other projects:
 * appcompat_v7
